@@ -1,1 +1,4 @@
-fd
+<?php
+echo "test";
+
+?>
